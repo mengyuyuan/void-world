@@ -1,0 +1,17 @@
+# Binaries
+*.exe
+genesis_v*
+*.bak
+*_save/
+mem.bin
+*.npz
+snapshots/
+__pycache__/
+*.pyc
+*.pyo
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+*.dead
